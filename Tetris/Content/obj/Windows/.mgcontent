@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/Programming/Games_C#/Tetris/Tetris/Content/Images/blockWhite.png</File>
+    <File>E:/Programming/Games_C#/Tetris/Tetris/Content/Fonts/MyFont.spritefont</File>
+    <File>E:/Programming/Games_C#/Tetris/Tetris/Content/Images/blockRed.png</File>
+    <File>E:/Programming/Games_C#/Tetris/Tetris/Content/Images/blockAzur.png</File>
+    <File>E:/Programming/Games_C#/Tetris/Tetris/Content/Images/blockYellow.png</File>
+    <File>E:/Programming/Games_C#/Tetris/Tetris/Content/Images/blockBlue.png</File>
+    <File>E:/Programming/Games_C#/Tetris/Tetris/Content/Images/blockOrange.png</File>
+    <File>E:/Programming/Games_C#/Tetris/Tetris/Content/Images/blockGreen.png</File>
+    <File>E:/Programming/Games_C#/Tetris/Tetris/Content/Images/blockPurple.png</File>
+    <File>E:/Programming/Games_C#/Tetris/Tetris/Content/Images/background.png</File>
+    <File>E:/Programming/Games_C#/Tetris/Tetris/Content/Images/titleScreen.png</File>
+  </SourceFiles>
+</SourceFileCollection>
